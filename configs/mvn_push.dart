@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:xml/xml.dart' as xml;
 
-const targetVersion = "1.0.1";
+const targetVersion = "1.0.2";
 
 class DeployObject {
   File pomFile;
