@@ -46,8 +46,7 @@ Widget _widgetForRoute(String routeJson) {
         );
     }
   } else {
-    return VersionInfoRoute("1.0.1");
-    //return MyHomePage(title: "Flutter Components");
+    return MyHomePage(title: "Flutter Components");
   }
 }
 
